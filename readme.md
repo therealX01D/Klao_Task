@@ -90,13 +90,6 @@ for case in test_cases:
     print(simplify_numbers(case))
 ```
 
-**Output**:
-```text
-etwa 324.620 Euro wurden gespendet.
-jeder Vierte der Bevölkerung sind betroffen.
-etwa 38,7 Grad Celsius ist es sehr heiß.
-Im Jahr 2024 gab es etwa 1.234 Ereignisse.
-```
 
 ---
 
